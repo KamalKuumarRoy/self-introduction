@@ -3,4 +3,4 @@
 This repository contains my 1-minute self introduction video.
 
 ## Video
-[Click to watch](intro-video.mp4)
+Please download the file to view the video.
